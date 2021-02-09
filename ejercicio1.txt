@@ -1,3 +1,8 @@
+<<<<<<< .merge_file_a21936
 Parte 1 ejercicio GIT
 Parte 2
 Más cambios
+=======
+Ejercicio GIT 1
+Cambio Master
+>>>>>>> .merge_file_a23952
