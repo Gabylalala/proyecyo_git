@@ -1,2 +1,2 @@
-Parte 1 ejercicio GIT
+Ejercicio GIT 1
 Cambio Master
